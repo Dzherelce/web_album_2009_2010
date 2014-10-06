@@ -1,0 +1,374 @@
+.Body {
+    color: #000000;
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing:     0.04em;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 8px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: #fffde8;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 58px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal_External_296_133 {
+    position: relative;
+}
+.Normal {
+    padding: 0px;
+}
+.Normal_External_221_21 {
+    position: relative;
+}
+.Normal_External_578_75 {
+    position: relative;
+}
+.Title {
+    color: #000000;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.04em;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: #fffce8;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_7 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_8 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_9 {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style {
+    padding: 8px;
+}
+.style_External_296_133 {
+    position: relative;
+}
+.style_1 {
+    padding: 0px;
+}
+.style_2 {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 19px;
+}
+.style_SkipStroke {
+    background: transparent url(BeBop_blue_canvas_bg_02.jpg) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_221_21 {
+    position: relative;
+}
+.graphic_generic_header_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_title_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_2_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_4_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_6_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_shape_layout_style_default_External_665_258 {
+    position: relative;
+}
+.graphic_shape_layout_style_default_External_700_200 {
+    position: relative;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: #51aea3;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_337_172 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_335_36 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: #60a210;
+    text-decoration: none;
+}
+a:visited {
+    color: #60a210;
+    text-decoration: none;
+}
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+#widget0 .Comment_Posted_Date {
+    color: #40b6d0;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.05em;
+    line-height: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget0 a:visited {
+    color: #60a210;
+    text-decoration: none;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 .Comment_Posted_Date {
+    color: #40b6d0;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.05em;
+    line-height: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget0 a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+#id4 div.caption {
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-indent: 0px;
+}
+#widget1 .Caption {
+    color: #000000;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.04em;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget1 .Comment_Posted_Date {
+    color: #40b6d0;
+    font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.05em;
+    line-height: 12px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#widget2 a {
+    color: #60a210;
+    text-decoration: none;
+}
+#widget2 a:visited {
+    color: #60a210;
+    text-decoration: none;
+}
+#widget0 a {
+    color: #60a210;
+    text-decoration: none;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#id4 canvas {
+    z-index: -1;
+}
+#id4 div.caption span.title {
+    color: #000000;
+    font-family: 'HelveticaNeue-CondensedBold', 'Helvetica Neue', 'Helvetica Neue Bold Condensed', 'Arial', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    letter-spacing:     0.04em;
+    line-height: 16px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
+}
+#widget1 a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+#widget2 a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+#widget1 {
+    display: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget1 a {
+    color: #60a210;
+    text-decoration: none;
+}
+#widget1 a:visited {
+    color: #60a210;
+    text-decoration: none;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
